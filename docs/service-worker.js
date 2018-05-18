@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.2.0/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.c3f56aa9b38061f512d725933a7538a6.js"
+  "/vuetify-pwa-test/precache-manifest.1a991b8faada400d0cc9a1375ff8a480.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "pwa-test"});
