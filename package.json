@@ -8,12 +8,14 @@
   },
   "dependencies": {
     "register-service-worker": "^1.0.0",
-    "vue": "^2.5.16"
+    "vue": "^2.5.16",
+    "vuetify": "^1.0.16"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.0.0-beta.10",
     "@vue/cli-plugin-pwa": "^3.0.0-beta.10",
     "@vue/cli-service": "^3.0.0-beta.10",
+    "vue-cli-plugin-vuetify": "file:../../plugin-vue-cli",
     "vue-template-compiler": "^2.5.13"
   },
   "browserslist": [
